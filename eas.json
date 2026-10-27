@@ -1,0 +1,1 @@
+{"build":{"production":{"ios":{"resourceClass":"m-medium"}},"preview":{"distribution":"internal"}},"cli":{"version":">=5.9.1"}}
